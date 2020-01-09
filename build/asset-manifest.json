@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31d63a0a.chunk.css",
+    "main.js": "/static/js/main.bbc1844e.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.6d60366c.js",
+    "static/css/2.99e6459f.chunk.css": "/static/css/2.99e6459f.chunk.css",
+    "static/js/2.305284d5.chunk.js": "/static/js/2.305284d5.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.8dc2905193304a4d5a96c895307210d8.js": "/precache-manifest.8dc2905193304a4d5a96c895307210d8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/index.css": "/static/media/muli-latin-900italic.f99056b6.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d60366c.js",
+    "static/css/2.99e6459f.chunk.css",
+    "static/js/2.305284d5.chunk.js",
+    "static/css/main.31d63a0a.chunk.css",
+    "static/js/main.bbc1844e.chunk.js"
+  ]
+}
