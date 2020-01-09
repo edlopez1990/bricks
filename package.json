@@ -2,6 +2,7 @@
     "name": "fuse-react-app",
     "version": "3.2.5",
     "private": true,
+    "homepage": "https://bricks-dashboard.herokuapp.com/example",
     "dependencies": {
         "@date-io/date-fns": "1.3.11",
         "@date-io/moment": "1.3.11",
