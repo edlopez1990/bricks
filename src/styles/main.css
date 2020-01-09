@@ -1,0 +1,115 @@
+body .makeStyles-wrapper-6 {
+  max-width: 210px;
+  min-width: 210px;
+}
+
+body .makeStyles-wrapper-6 .makeStyles-navbar-8 {
+  min-width: 210px;
+  width: 210px;
+}
+
+body #fuse-layout .header-app-bar {
+  background-color: #012f77;
+}
+
+body #fuse-layout .makeStyles-navbar-8 {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  background-color: #032455 !important;
+}
+
+body .navigation .list-subheader-text {
+  color: #fff;
+}
+
+body .navigation .list-item-icon {
+  font-size: 25px;
+  color: #8d9bb2;
+}
+
+body .navigation .list-item-text {
+  color: #8d9bb2;
+}
+
+body .navigation .list-item {
+  margin-right: 0px;
+  width: 100%;
+  border-radius: 0px;
+}
+
+body .navigation .list-item.active {
+  max-width: 210px;
+  height: 47px;
+  border-radius: 0px;
+  border-left: 4px solid #fff;
+  background-color: #11305f;
+  color: #fff;
+}
+
+body .navigation .list-item.active .list-item-text {
+  color: #fff;
+}
+
+body .navigation .list-item:hover {
+  border-radius: 0px;
+}
+
+body .MuiAppBar-colorDefault-22 {
+  background-color: #012f77;
+}
+
+body .navbar-noti {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: auto 20px;
+}
+
+body .navbar-noti .icon-nav {
+  margin: auto 10px;
+}
+
+body .navbar-noti .icon-nav span {
+  text-align: center;
+  color: #fff;
+  font-size: 30px;
+}
+
+body .popup-item-user {
+  margin: auto 10px;
+}
+
+body .popup-item-user span {
+  color: #fff;
+}
+
+body .input-search-form div:first-child {
+  min-width: 300px;
+  margin: 0px 10px;
+}
+
+body .input-search-form select,
+body .input-search-form select:focus,
+body .input-search-form select:hover,
+body .input-search-form select:active {
+  padding: 10px 14px;
+  height: 30px;
+  background: #002153;
+  border-radius: 5px;
+}
+
+body .input-search-form fieldset {
+  border: 0px;
+}
+
+body .input-search-form select,
+body .input-search-form svg {
+  color: #fff;
+}
+/*# sourceMappingURL=main.css.map */

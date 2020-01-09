@@ -1,0 +1,139 @@
+body {
+  .makeStyles-wrapper-6 {
+    max-width: 210px;
+    min-width: 210px;
+
+    .makeStyles-navbar-8 {
+      min-width: 210px;
+      width: 210px;
+    }
+  }
+
+
+
+  // sidebar left
+
+  #fuse-layout {
+    .header-app-bar {
+      background-color: #012f77;
+    }
+
+
+    .makeStyles-navbar-8 {
+      box-shadow: none;
+      background-color: #032455 !important;
+    }
+  }
+
+  .navigation {
+
+    .list-subheader-text {
+      color: #fff;
+    }
+
+    li {}
+
+
+
+
+    .list-item-icon {
+      font-size: 25px;
+      color: #8d9bb2;
+    }
+
+    .list-item-text {
+      color: #8d9bb2;
+    }
+
+    .list-item {
+      margin-right: 0px;
+      width: 100%;
+      border-radius: 0px;
+
+    }
+
+    .list-item.active {
+      max-width: 210px;
+      height: 47px;
+      border-radius: 0px;
+      border-left: 4px solid #fff;
+      background-color: #11305f;
+      color: #fff;
+
+      .list-item-text {
+        color: #fff;
+      }
+    }
+
+    .list-item:hover {
+      border-radius: 0px;
+    }
+  }
+
+
+
+
+  // header navbar
+  .MuiAppBar-colorDefault-22 {
+    background-color: #012f77;
+  }
+
+  .navbar-noti {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto 20px;
+
+    .icon-nav {
+      margin: auto 10px;
+
+      span {
+        text-align: center;
+        color: #fff;
+        font-size: 30px;
+      }
+    }
+
+  }
+
+  // menu user
+  .popup-item-user {
+    margin: auto 10px;
+
+    span {
+      color: #fff;
+    }
+  }
+
+
+
+  .input-search-form {
+
+    div:first-child {
+      min-width: 300px;
+      margin: 0px 10px
+    }
+
+    select,
+    select:focus,
+    select:hover,
+    select:active {
+      padding: 10px 14px;
+      height: 30px;
+      background: #002153;
+      border-radius: 5px;
+    }
+
+    fieldset {
+      border: 0px;
+    }
+
+    select,
+    svg {
+      color: #fff;
+    }
+  }
+
+
+
+}
