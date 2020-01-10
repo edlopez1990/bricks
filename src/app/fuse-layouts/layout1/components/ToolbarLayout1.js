@@ -45,11 +45,11 @@ function ToolbarLayout1(props)
 
                     <div className="flex">
                     <div className="navbar-noti">
-                        <span class="icon-nav">
-                            <span class="material-icons MuiIcon-root-125" aria-hidden="true">notifications</span>
+                        <span className="icon-nav">
+                            <span className="material-icons MuiIcon-root-125" aria-hidden="true">notifications</span>
                         </span>
-                        <span class="icon-nav">
-                            <span class="material-icons MuiIcon-root-125" aria-hidden="true">help_outline</span>
+                        <span className="icon-nav">
+                            <span className="material-icons MuiIcon-root-125" aria-hidden="true">help_outline</span>
                         </span>
                     </div>
                     

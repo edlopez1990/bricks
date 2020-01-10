@@ -1,6 +1,6 @@
 import Example from './Example';
 import Ui from './elementsui/Ui';
-
+import Pageone from './elementsui/Pageone';
 
 export const ExampleConfig = {
     settings: {
@@ -16,6 +16,10 @@ export const ExampleConfig = {
         {
             path     : '/ui',
             component: Ui
+        },
+        {
+            path     : '/pageone',
+            component: Pageone
         }
     ]
 };

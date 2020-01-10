@@ -49,9 +49,7 @@ const useStyles = makeStyles(theme => ({
           label=""
           value={opciones}
           onChange={handleChange}
-          SelectProps={{
-            native: true,
-          }}
+       
           helperText=""
           variant="outlined"
         >

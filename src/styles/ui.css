@@ -1,0 +1,81 @@
+.ui-header {
+  background: #012f77;
+  padding: 0px 33px;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.btn {
+  width: 179px;
+  height: 44px;
+  border-radius: 4px;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  font-size: 12px;
+}
+
+.btn-disabled {
+  background-color: #f6f6f6;
+  color: #7695A2 !important;
+}
+
+.btn-primario {
+  background-color: #e05c46;
+  color: #fff;
+}
+
+.btn-primario:hover,
+.btn-primario:focus {
+  background-color: #d82103;
+}
+
+.btn-secundario {
+  background-color: #fff;
+  border: solid 1px #c1c1c1;
+  color: #73767b;
+}
+
+.btn-secundario:hover {
+  background-color: #012f77;
+  color: #fff;
+}
+
+.btn-secundario:focus {
+  border: solid 1px #012f77;
+  background-color: #fff;
+  color: #012f77;
+}
+
+.btn-group button {
+  border: 1px solid #7d94b9;
+  color: #012f77;
+}
+
+.btn-group button:hover {
+  background-color: #012f77;
+  color: #fff;
+  border: 1px solid #7d94b9;
+}
+
+.btn-group .MuiFormControl-root .MuiInput-root {
+  border: 1px solid;
+}
+
+.btn-group .MuiFormControl-marginNormal {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.btn-group .MuiInputBase-input {
+  width: auto !important;
+}
+/*# sourceMappingURL=ui.css.map */
